@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="Gazi TV" tvg-logo="http://bciptv.net/assets/images/gazi.jpg" group-title="Sports",Gazi TV
+http://bciptv.net:8082/GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="T Sports" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="Sports",T Sports
+http://15.1.1.10:8082/tsp/index.m3u8
+#EXTINF:-1 tvg-id="BEIN 1 SPORTS PREMIUM" tvg-logo="http://bciptv.net/assets/images/beinpremium1%20(1).png" group-title="Sports",BEIN 1 SPORTS PREMIUM
+http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Gazi TV" tvg-logo="http://bciptv.net/assets/images/gazi.jpg" group-title="Sports",Gazi TV Alternate
+http://bciptv.net:8082/it-care-gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-logo="https://cdn.aliflailabd.com/tv/images/starsports2.png" group-title="Sports",Star Sports 2
+http://15.1.1.10:8082/STAR-SPORTS-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-logo="http://bciptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2 HD
+http://15.1.1.10:8082/SONY-TEN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="Asports HD" tvg-logo="http://bciptv.net/assets/images/asp.jpg" group-title="Sports",A Sports HD
+http://bciptv.net:8082/A-SPORTS/tracks-v1a1/mono.m3u8
